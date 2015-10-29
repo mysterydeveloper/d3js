@@ -1,4 +1,4 @@
-###### Graphics Programming - Exercise 6
+###### Graphics Programming - Exercise 7
 # d3.js
 In this exercise we will look at the library d3.js.
 
