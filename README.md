@@ -107,8 +107,8 @@ Save each step as a separate source file.
 1. Change the colour of each bar to be different to the others.
 
 ## Notes
-- [The D3.js website.](http://d3js.org/)
+- [The D3.js website](http://d3js.org/).
 
 - [Tutorial on making a bar chart in d3.js.](http://bost.ocks.org/mike/bar/).
 
-- [A great tutorial on D3.js.](http://alignedleft.com/tutorials/d3/making-a-bar-chart).
+- [A great tutorial on D3.js](http://alignedleft.com/tutorials/d3/making-a-bar-chart).
