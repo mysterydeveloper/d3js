@@ -41,7 +41,7 @@ Save each step as a separate source file.
     var svg = body.append("svg");
     ```
 
-1.  For each element in data, add a rect to the SVG. Set each rect to the same x, y, w and h for now.
+1.  For each element in mydata, add a rect to the SVG. Set each rect to the same x, y, w and h for now.
 
     ```js
     var rects = svg.selectAll("rect")
