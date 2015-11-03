@@ -5,7 +5,7 @@ In this exercise we will look at the library D3.js.
 ## Exercises
 Save each step as a separate source file.
 
-1. Create a blank HTML file with a CSS section and a JavaScript section, and add a canvas element to it.
+1. Create a blank HTML file with a CSS section and a JavaScript section.
 
     ```html
     <!DOCTYPE html>
